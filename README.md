@@ -1,8 +1,5 @@
-# VisualDialoguePapers
-Summary of Visual Dialogue Papers
-
-# Neural Network Dialog System Papers
-A list of papers about creating dialog systems using deep nets! **Please feel free to add an issue or pull request for missing papers**.
+# Visual Dialogue Papers
+A list of papers about creating visual dialogue papers **Please feel free to add an issue or pull request for missing papers**.
 
 # Bookmarks
   * [Task Bots](#task-bots)
