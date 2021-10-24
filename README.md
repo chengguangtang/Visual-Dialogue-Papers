@@ -27,7 +27,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Constructing Multi-Modal Dialogue Dataset by Replacing Text with Semantically Relevant Images](https://arxiv.org/abs/2107.08685), Nyoungwoo Lee et al., ACL 2021, [HomePage](https://github.com/shh1574/multi-modal-dialogue-dataset)
 
-* [MMChat: Multi-Modal Chat Dataset on Social Media](https://arxiv.org/abs/2108.07154), Yinhe Zheng et al., CVPR 
+* [MMChat: Multi-Modal Chat Dataset on Social Media](https://arxiv.org/abs/2108.07154), Yinhe Zheng et al., CVPR 2021
 
 ### Goal Oriented
 
