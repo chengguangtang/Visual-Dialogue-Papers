@@ -147,6 +147,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [](), et al., 2016
 
 
+
 ## Pretraining in Vision and Language
 * [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/abs/1909.11740), Bing Liu, *arXiv*, 2016
 
@@ -157,3 +158,9 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 ![image](https://user-images.githubusercontent.com/1453642/138585957-2762d461-b75e-4ec6-9c32-7b45152a554b.png)
 
 
+
+## Related Survey
+
+* [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358), Aditya Mogadala et al., JAIR 2021
+
+* [](), et al., 2016
