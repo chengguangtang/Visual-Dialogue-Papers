@@ -27,11 +27,11 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Constructing Multi-Modal Dialogue Dataset by Replacing Text with Semantically Relevant Images](https://arxiv.org/abs/2107.08685), Nyoungwoo Lee et al., ACL 2021, [HomePage](https://github.com/shh1574/multi-modal-dialogue-dataset)
 
-* [](), et al., 2016
+* [MMChat: Multi-Modal Chat Dataset on Social Media](https://arxiv.org/abs/2108.07154), Yinhe Zheng et al., CVPR 
 
-* [](), et al., 2016
+* [SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations](), et al., DSTC10 2021, [HomePage](https://github.com/facebookresearch/simmc2)
 
-* [](), et al., 2016
+* [SIMMC: Situated Interactive Multi-Modal Conversational Data Collection And Evaluation Platform](), et al., DSTC9 2020, [HomePage](https://github.com/facebookresearch/simmc)
 
 
 ### Challenge
