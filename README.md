@@ -34,34 +34,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Incorporating Unstructured Textual Knowledge Sources into Neural Dialogue](http://media.wix.com/ugd/b6d786_137894b7b3a341a09ed0c0b45b46dbb6.pdf) Ryan Lowe et al., 2016
 
 
-### Models
-  * [Task Bots](#task-bots)
-    * General
-    * Multidomain & Domain Adaptation
-    * User Simulator
-    * Reinforcement Learning and Adversarial 
-  * [Chat Bots](#chat-bots)
-    * General
-    * Retrieval Methods
-    * Rich Dialog Context
-    * Diversity
-    * Inteprebility
-
-#### 2017
-* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
-
-#### 2018
-* [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-
 ### Evaluation
 * [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
 
@@ -116,7 +88,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 
 
-## Task Bots
+## Open Domain
 ### General 
 * [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
 
@@ -210,6 +182,28 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Adversarial Learning of Task-Oriented Neural Dialog Models](https://arxiv.org/abs/1805.11762) Bing Liu et al 2018.
 
-## Chat Bots
+## Goal Oriented
 ### General
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
+
+* [Agenda-Based User Simulation for Bootstrapping a POMDP Dialogue System](http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf) Jost Schatzmann 2007
+
+* [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688) Xinjun Li et al., 2016
+
+### User Simulator
+
+* [Agenda-Based User Simulation for Bootstrapping a POMDP Dialogue System](http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf) Jost Schatzmann 2007
+
+* [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688) Xinjun Li et al., 2016
+
+* [A Sequence-to-Sequence Model for User Simulation in Spoken Dialogue Systems](https://arxiv.org/pdf/1607.00070.pdf) Layla El Asri 2016
+
+* [Neural User Simulation for Corpus-based Policy Optimisation for Spoken Dialogue Systems](https://arxiv.org/pdf/1805.06966.pdf) Florian L. Kreyssig 2018
+
+
+### Reinforcement Learning and Adversarial 
+* [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/pdf/1606.02560v1.pdf) Tiancheng Zhao et al., 2016
+
+* [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
+
+
