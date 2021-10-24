@@ -21,7 +21,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [MMD: Towards Building Large Scale Multimodal Domain-Aware Conversation Systems](https://arxiv.org/abs/1704.00200), Amrita Saha et al., AAAI 2018
 
-* [](), et al., 2016
+* [Image-Chat: Engaging Grounded Conversations](https://arxiv.org/abs/1811.00945), Kurt Shuster et al., ACL 2020
 
 * [](), et al., 2016
 
