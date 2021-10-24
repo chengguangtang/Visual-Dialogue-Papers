@@ -46,29 +46,22 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [](), et al., 2016
 
 
-## Evaluation
-* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
-
-* [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-
-## ViL Pretrain for Visual Dialogue or VQA
-* [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/abs/1909.11740), Bing Liu, *arXiv*, 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-
 
 # Open Domain
 ### Pretraining
 
-* [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), Vishvak Murahari et al., ECCV 2020
+* [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), Vishvak Murahari et al., ECCV 2020, [HomePage](https://github.com/vmurahari3/visdial-bert)
+
+* [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), Yue Wang et al., EMNLP 2020, [HomePage](https://github.com/salesforce/VD-BERT)
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+
+### Transformer
+
+* [Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue Generation](https://arxiv.org/abs/2109.08478), Feilong Chen et al., ACL Fingdings 2021
 
 * [](), et al., 2016
 
@@ -78,25 +71,9 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [](), et al., 2016
 
-* [](), et al., 2016
 
 
-* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
-
-* [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
-
-* [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) Tsung-Hsien Wen et al, 2016
-
-* [Conditional Generation and Snapshot Learning in Neural Dialogue Systems](https://arxiv.org/abs/1606.03352) Tsung-Hsien Wen et al, 2016
-
-* [Incorporating Unstructured Textual Knowledge Sources into Neural Dialogue](http://media.wix.com/ugd/b6d786_137894b7b3a341a09ed0c0b45b46dbb6.pdf) Ryan Lowe et al., 2016
-
-* [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](http://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams et al., 2016
-
-* [End-to-End Reinforcement Learning of Dialogue Agents for Information Access](http://arxiv.org/abs/1609.00777) Bhuwan Dhingra et al., 2016
-
-
-### Multidomain & Domain Adaptation
+### GNN
 
 * [](), et al., 2016
 
@@ -158,3 +135,21 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
 
 
+
+
+## Evaluation
+* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
+
+* [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+
+## Pretraining in Vision and Language
+* [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/abs/1909.11740), Bing Liu, *arXiv*, 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
