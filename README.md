@@ -25,7 +25,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [OpenViDial 2.0: A Larger-Scale, Open-Domain Dialogue Generation Dataset with Visual Contexts](https://arxiv.org/abs/2109.12761v2), Shuhe Wang et al., *arXiv* 2021
 
-* [](), et al., 2016
+* [Constructing Multi-Modal Dialogue Dataset by Replacing Text with Semantically Relevant Images](https://arxiv.org/abs/2107.08685), Nyoungwoo Lee et al., ACL 2021, [HomePage](https://github.com/shh1574/multi-modal-dialogue-dataset)
 
 * [](), et al., 2016
 
