@@ -94,15 +94,15 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Making History Matter: History-Advantage Sequence Training for Visual Dialog](https://arxiv.org/abs/1902.09326), Tianhao Yang et al., ICCV 2019
 
-* [Dual Visual Attention Network for Visual Dialog](https://www.ijcai.org/Proceedings/2019/0693.pdf), Dan Guo et al., IJCAI 2019
+* [Dual Visual Attention Network for Visual Dialog](https://www.ijcai.org/Proceedings/2019/0693.pdf), Dan Guo et al., IJCAI 2019, [Code](https://github.com/gicheonkang/dan-visdial)
 
-* [](), et al., 2016
+* [Recursive Visual Attention in Visual Dialog](https://arxiv.org/abs/1812.02664), Yulei Niu et al., CVPR 2019
 
-* [](), et al., 2016
+* [Factor Graph Attention](https://arxiv.org/abs/1904.05880), Idan Schwartz et al., CVPR 2019
 
-* [](), et al., 2016
+* [DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue](https://arxiv.org/abs/1911.07251), Xiaoze Jiang et al., AAAI 2020
 
-* [](), et al., 2016
+* [DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310), Xiaoze Jiang et al., IJCAI 2020, [Code](https://github.com/JXZe/DAM)
 
 * [](), et al., 2016
 
