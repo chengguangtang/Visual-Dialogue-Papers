@@ -13,17 +13,17 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Audio-Visual Scene-Aware Dialog](https://arxiv.org/abs/1901.09107), Huda Alamri et al., CVPR 2019
 
-* [OpenViDial: A Large-Scale, Open-Domain Dialogue Dataset with Visual Contexts](https://arxiv.org/abs/2012.15015), Yuxian Meng et al., *arXiv* 2021
-
-* [OpenViDial 2.0: A Larger-Scale, Open-Domain Dialogue Generation Dataset with Visual Contexts](https://arxiv.org/abs/2109.12761v2), Shuhe Wang et al., *arXiv* 2021
-
 * [Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation](https://aclanthology.org/I17-1047/), Nasrin Mostafazadeh et al., IJCNLP 2017
 
 * [MMD: Towards Building Large Scale Multimodal Domain-Aware Conversation Systems](https://arxiv.org/abs/1704.00200), Amrita Saha et al., AAAI 2018
 
 * [Image-Chat: Engaging Grounded Conversations](https://arxiv.org/abs/1811.00945), Kurt Shuster et al., ACL 2020, [HomePage](https://parl.ai/projects/image_chat/)
 
-* [](), et al., 2016
+* [Multi-Modal Open-Domain Dialogue](https://arxiv.org/abs/2010.01082), Kurt Shuster et al., *arXiv* 2020, [HomePage](https://github.com/facebookresearch/ParlAI/tree/master/projects/multimodal_blenderbot)
+
+* [OpenViDial: A Large-Scale, Open-Domain Dialogue Dataset with Visual Contexts](https://arxiv.org/abs/2012.15015), Yuxian Meng et al., *arXiv* 2021
+
+* [OpenViDial 2.0: A Larger-Scale, Open-Domain Dialogue Generation Dataset with Visual Contexts](https://arxiv.org/abs/2109.12761v2), Shuhe Wang et al., *arXiv* 2021
 
 * [](), et al., 2016
 
