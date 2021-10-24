@@ -86,7 +86,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Zero-Shot Dialog Generation with Cross-Domain Latent Actions](https://arxiv.org/abs/1805.04803) Tiancheng Zhao et al 2018
 
 
-### User Simulator
+### Others
 
 * [](), et al., 2016
 
@@ -100,20 +100,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Neural User Simulation for Corpus-based Policy Optimisation for Spoken Dialogue Systems](https://arxiv.org/pdf/1805.06966.pdf) Florian L. Kreyssig 2018
 
-
-### Reinforcement Learning and Adversarial 
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/pdf/1606.02560v1.pdf) Tiancheng Zhao et al., 2016
-
-* [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
-
-* [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) Jiwei Li et al., 2017
-
-* [A deep reinforcement learning chatbot](https://arxiv.org/abs/1709.02349) Serban et al 2017
 
 
 ## Goal Oriented
@@ -150,6 +136,10 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 ## Pretraining in Vision and Language
 * [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/abs/1909.11740), Bing Liu, *arXiv*, 2016
 
-* [](), et al., 2016
+* [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](), et al., CVPR 2021
 
 * [](), et al., 2016
+
+![image](https://user-images.githubusercontent.com/1453642/138585957-2762d461-b75e-4ec6-9c32-7b45152a554b.png)
+
+
