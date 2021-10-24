@@ -1,9 +1,8 @@
 # Visual Dialogue Papers
 A list of papers about creating visual dialogue papers **Please feel free to add an issue or pull request for missing papers**.
 
-## Visual Dialogue
-### Datasets
-#### Open Domain
+## Datasets
+### Open Domain
 * [Visual Dialogue](https://arxiv.org/abs/1611.08669), Abhishek Das et al., CVPR 2017 
 
 * [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), Harm de Vries et al., CVPR 2017
@@ -30,14 +29,14 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [MMChat: Multi-Modal Chat Dataset on Social Media](https://arxiv.org/abs/2108.07154), Yinhe Zheng et al., CVPR 
 
-#### Goal Oriented
+### Goal Oriented
 
 * [SIMMC: Situated Interactive Multi-Modal Conversational Data Collection And Evaluation Platform](), et al., DSTC9 2020, [HomePage](https://github.com/facebookresearch/simmc)
 
 * [SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations](), et al., DSTC10 2021, [HomePage](https://github.com/facebookresearch/simmc2)
 
 
-### Challenge
+## Challenge
 * [visualdialog](https://visualdialog.org/), 2020
 
 * [Audio Visual Scene-Aware Dialog (AVSD) Challenge](https://video-dialog.com/), Bing Liu, *arXiv*, 2016
@@ -54,7 +53,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Incorporating Unstructured Textual Knowledge Sources into Neural Dialogue](http://media.wix.com/ugd/b6d786_137894b7b3a341a09ed0c0b45b46dbb6.pdf) Ryan Lowe et al., 2016
 
 
-### Evaluation
+## Evaluation
 * [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
 
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
@@ -68,7 +67,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [](), et al., 2016
 
 
-### ViL Pretrain
+## ViL Pretrain
 * [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
 
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
@@ -76,7 +75,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 
 
-## Open Domain
+# Open Domain
 ### General 
 
 * [](), et al., 2016
