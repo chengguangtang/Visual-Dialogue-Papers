@@ -100,11 +100,12 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Factor Graph Attention](https://arxiv.org/abs/1904.05880), Idan Schwartz et al., CVPR 2019
 
+* [Generative Visual Dialogue System via Adaptive Reasoning and Weighted Likelihood Estimation](https://arxiv.org/abs/1902.09818), Heming Zhang et al., IJCAI 2019
+
 * [DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue](https://arxiv.org/abs/1911.07251), Xiaoze Jiang et al., AAAI 2020
 
 * [DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310), Xiaoze Jiang et al., IJCAI 2020, [Code](https://github.com/JXZe/DAM)
 
-* [](), et al., 2016
 
 
 
