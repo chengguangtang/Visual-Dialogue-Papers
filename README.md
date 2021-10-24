@@ -3,6 +3,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ## Visual Dialogue
 ### Datasets
+#### Open Domain
 * [Visual Dialogue](https://arxiv.org/abs/1611.08669), Abhishek Das et al., CVPR 2017 
 
 * [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), Harm de Vries et al., CVPR 2017
@@ -29,9 +30,11 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [MMChat: Multi-Modal Chat Dataset on Social Media](https://arxiv.org/abs/2108.07154), Yinhe Zheng et al., CVPR 
 
-* [SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations](), et al., DSTC10 2021, [HomePage](https://github.com/facebookresearch/simmc2)
+#### Goal Oriented
 
 * [SIMMC: Situated Interactive Multi-Modal Conversational Data Collection And Evaluation Platform](), et al., DSTC9 2020, [HomePage](https://github.com/facebookresearch/simmc)
+
+* [SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations](), et al., DSTC10 2021, [HomePage](https://github.com/facebookresearch/simmc2)
 
 
 ### Challenge
