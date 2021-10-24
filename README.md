@@ -88,9 +88,13 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ### General
 
+* [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), Satwik Kottur et al., ECCV 2018
+
 * [Image-Question-Answer Synergistic Network for Visual Dialog](https://arxiv.org/abs/1902.09774), Dalu Guo et al., CVPR 2019
 
-* [](), et al., 2016
+* [Making History Matter: History-Advantage Sequence Training for Visual Dialog](https://arxiv.org/abs/1902.09326), Tianhao Yang et al., ICCV 2019
+
+* [Dual Visual Attention Network for Visual Dialog](https://www.ijcai.org/Proceedings/2019/0693.pdf), Dan Guo et al., IJCAI 2019
 
 * [](), et al., 2016
 
@@ -101,18 +105,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [](), et al., 2016
 
 * [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [Agenda-Based User Simulation for Bootstrapping a POMDP Dialogue System](http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf) Jost Schatzmann 2007
-
-* [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688) Xinjun Li et al., 2016
-
-* [A Sequence-to-Sequence Model for User Simulation in Spoken Dialogue Systems](https://arxiv.org/pdf/1607.00070.pdf) Layla El Asri 2016
-
-* [Neural User Simulation for Corpus-based Policy Optimisation for Spoken Dialogue Systems](https://arxiv.org/pdf/1805.06966.pdf) Florian L. Kreyssig 2018
 
 
 
