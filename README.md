@@ -21,11 +21,15 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), Harm de Vries et al., CVPR 2017
 
-* [](), et al., 2016
-
 * [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166), Satwik Kottur et al., NAACL 2019
 
-* [](), et al., 2016
+* [Visual Reference Resolution using Attention Memory for Visual Dialog](https://arxiv.org/abs/1709.07992), Paul Hongsuck Seo et al., NIPS 2017
+
+* [Audio-Visual Scene-Aware Dialog](https://arxiv.org/abs/1901.09107), Huda Alamri et al., CVPR 2019
+
+* [OpenViDial: A Large-Scale, Open-Domain Dialogue Dataset with Visual Contexts](https://arxiv.org/abs/2012.15015), Yuxian Meng et al., *arXiv* 2021
+
+* [OpenViDial 2.0: A Larger-Scale, Open-Domain Dialogue Generation Dataset with Visual Contexts](https://arxiv.org/abs/2109.12761v2), Shuhe Wang et al., *arXiv* 2021
 
 * [](), et al., 2016
 
@@ -35,14 +39,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [](), et al., 2016
 
-* [](), et al., 2016
 
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-Visual Reference Resolution using Attention Memory
-for Visual Dialog
 
 * [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) Tsung-Hsien Wen et al, 2016
 
