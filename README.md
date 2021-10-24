@@ -85,16 +85,21 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [GoG: Relation-aware Graph-over-Graph Network for Visual Dialog](https://arxiv.org/abs/2109.08475), Feilong Chen et al., ACL Findings 2021
 
+* [Reasoning Visual Dialogs with Structural and Partial Observations](https://arxiv.org/abs/1904.05548), Zilong Zheng et al., CVPR 2019
+
+* [KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue](https://arxiv.org/abs/2008.04858), Xiaoze Jiang et al., ACM MM 2020
+
 * [](), et al., 2016
 
-* [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1706.06210.pdf) Paweł et al., 2017
+* [](), et al., 2016
 
-* [Cross-domain Dialogue Policy Transfer via Simultaneous Speech-act and Slot Alignment](https://arxiv.org/abs/1804.07691) Kaixiang Mo et al. 2018
+* [](), et al., 2016
 
-* [Zero-Shot Dialog Generation with Cross-Domain Latent Actions](https://arxiv.org/abs/1805.04803) Tiancheng Zhao et al 2018
 
 
 ### General
+
+* [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://arxiv.org/abs/1706.01554), Jiasen Lu et al., NIPS 2017
 
 * [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), Satwik Kottur et al., ECCV 2018
 
@@ -116,6 +121,19 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310), Xiaoze Jiang et al., IJCAI 2020, [Code](https://github.com/JXZe/DAM)
 
+* [Granular Multimodal Attention Networks for Visual Dialog](https://arxiv.org/abs/1910.05728), Badri N. Patro et al., ICCV Workshop 2019
+
+* [Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog](https://arxiv.org/abs/1902.00579), Zhe Gan et al., ACL 2019
+
+* [Modality-Balanced Models for Visual Dialogue](https://arxiv.org/abs/2001.06354), Hyounghun Kim et al., AAAI 2020
+
+* [Efficient Attention Mechanism for Visual Dialog that can Handle All the Interactions between Multiple Inputs](https://arxiv.org/abs/1911.11390), Van-Quang Nguyen et al., ECCV 2020
+
+* [Multi-View Attention Network for Visual Dialog](https://arxiv.org/abs/2004.14025), Sungjin Park et al., ACL 2020, [Code](https://github.com/taesunwhang/MVAN-VisDial)
+
+* [History for Visual Dialog: Do we really need it?](https://aclanthology.org/2020.acl-main.728/), Shubham Agarwal et al., ACL 2020
+
+* [Iterative Context-Aware Graph Inference for Visual Dialog](https://arxiv.org/abs/2004.02194), Dan Guo et al., CVPR 2020
 
 * [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), Feilong Chen et al., EMNLP 2021
 
@@ -125,6 +143,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [](), et al., 2016
 
+* [](), et al., 2016
 
 
 ## Goal Oriented
