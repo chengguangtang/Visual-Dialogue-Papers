@@ -1,20 +1,6 @@
 # Visual Dialogue Papers
 A list of papers about creating visual dialogue papers **Please feel free to add an issue or pull request for missing papers**.
 
-# Bookmarks
-  * [Task Bots](#task-bots)
-    * General
-    * Multidomain & Domain Adaptation
-    * User Simulator
-    * Reinforcement Learning and Adversarial 
-  * [Chat Bots](#chat-bots)
-    * General
-    * Retrieval Methods
-    * Rich Dialog Context
-    * Diversity
-    * Inteprebility
-
-
 ## Visual Dialogue
 ### Datasets
 * [Visual Dialogue](https://arxiv.org/abs/1611.08669), Abhishek Das et al., CVPR 2017 
@@ -49,6 +35,17 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 
 ### Models
+  * [Task Bots](#task-bots)
+    * General
+    * Multidomain & Domain Adaptation
+    * User Simulator
+    * Reinforcement Learning and Adversarial 
+  * [Chat Bots](#chat-bots)
+    * General
+    * Retrieval Methods
+    * Rich Dialog Context
+    * Diversity
+    * Inteprebility
 
 #### 2017
 * [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
