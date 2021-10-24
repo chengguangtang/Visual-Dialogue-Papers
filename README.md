@@ -75,7 +75,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ### GNN
 
-* [](), et al., 2016
+* [GoG: Relation-aware Graph-over-Graph Network for Visual Dialog](https://arxiv.org/abs/2109.08475), Feilong Chen et al., ACL Findings 2021
 
 * [](), et al., 2016
 
