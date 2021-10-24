@@ -72,6 +72,14 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [](), et al., 2016
 
 
+### Attention-based
+
+* [Efficient Attention Mechanism for Visual Dialog that can Handle All the Interactions between Multiple Inputs](https://arxiv.org/abs/1911.11390), Van-Quang Nguyen et al., ECCV 2020
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
 
 ### GNN
 
