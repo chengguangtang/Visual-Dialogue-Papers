@@ -112,8 +112,18 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue](https://arxiv.org/abs/1911.07251), Xiaoze Jiang et al., AAAI 2020
 
+* [DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog](DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog), Feilong Chen et al., AAAI 2020
+
 * [DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310), Xiaoze Jiang et al., IJCAI 2020, [Code](https://github.com/JXZe/DAM)
 
+
+* [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), Feilong Chen et al., EMNLP 2021
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
 
 
 
