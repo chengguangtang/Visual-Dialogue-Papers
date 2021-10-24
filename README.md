@@ -137,7 +137,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), Feilong Chen et al., EMNLP 2021
 
-* [](), et al., 2016
+* [Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog](https://arxiv.org/abs/2002.00163), Zekang Li et al., AAAI2020 DSTC8 workshop
 
 * [](), et al., 2016
 
@@ -148,29 +148,8 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ## Goal Oriented
 ### General
-* [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
 
-* [Agenda-Based User Simulation for Bootstrapping a POMDP Dialogue System](http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf) Jost Schatzmann 2007
-
-* [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688) Xinjun Li et al., 2016
-
-### User Simulator
-
-* [Agenda-Based User Simulation for Bootstrapping a POMDP Dialogue System](http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf) Jost Schatzmann 2007
-
-
-### Reinforcement Learning and Adversarial 
-* [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/pdf/1606.02560v1.pdf) Tiancheng Zhao et al., 2016
-
-* [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
-
-
-
-
-## Evaluation
-* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
-
-* [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
+* [](), et al., 2016
 
 * [](), et al., 2016
 
