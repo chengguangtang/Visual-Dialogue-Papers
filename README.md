@@ -23,8 +23,26 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [](), et al., 2016
 
+* [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166), Satwik Kottur et al., NAACL 2019
 
+* [](), et al., 2016
 
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+Visual Reference Resolution using Attention Memory
+for Visual Dialog
 
 * [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) Tsung-Hsien Wen et al, 2016
 
@@ -41,6 +59,13 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 #### 2018
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
 
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
 
 
 ### Evaluation
@@ -48,6 +73,13 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
 
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
 
 
 ### ViL Pretrain
@@ -71,6 +103,21 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Incorporating Unstructured Textual Knowledge Sources into Neural Dialogue](http://media.wix.com/ugd/b6d786_137894b7b3a341a09ed0c0b45b46dbb6.pdf) Ryan Lowe et al., 2016
 
 
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
 
 
 
