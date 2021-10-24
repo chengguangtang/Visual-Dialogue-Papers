@@ -17,6 +17,14 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [OpenViDial 2.0: A Larger-Scale, Open-Domain Dialogue Generation Dataset with Visual Contexts](https://arxiv.org/abs/2109.12761v2), Shuhe Wang et al., *arXiv* 2021
 
+* [Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation](https://aclanthology.org/I17-1047/), Nasrin Mostafazadeh et al., IJCNLP 2017
+
+* [MMD: Towards Building Large Scale Multimodal Domain-Aware Conversation Systems](https://arxiv.org/abs/1704.00200), Amrita Saha et al., AAAI 2018
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
 * [](), et al., 2016
 
 * [](), et al., 2016
@@ -29,7 +37,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 ### Challenge
 * [visualdialog](https://visualdialog.org/), 2020
 
-* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
+* [Audio Visual Scene-Aware Dialog (AVSD) Challenge](https://video-dialog.com/), Bing Liu, *arXiv*, 2016
 
 * [](), et al., 2016
 
