@@ -175,3 +175,9 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358), Aditya Mogadala et al., JAIR 2021
 
 * [](), et al., 2016
+
+
+## Visual Dialog Challenge Starter Code
+
+[Visual Dialog Challenge 2019](https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch)
+
