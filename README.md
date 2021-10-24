@@ -149,7 +149,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 ## Goal Oriented
 ### General
 
-* [](), et al., 2016
+* [DialogStitch: Synthetic Deeper and Multi-Context Task-Oriented Dialogs](https://aclanthology.org/2021.sigdial-1.3.pdf), Satwik Kottur et al., SIGDIAL 2021, [[code]](https://github.com/facebookresearch/DialogStitch)
 
 * [](), et al., 2016
 
