@@ -26,6 +26,15 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [](), et al., 2016
 
 
+### Challenge
+* [visualdialog](https://visualdialog.org/), 2020
+
+* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
 
 * [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) Tsung-Hsien Wen et al, 2016
 
@@ -55,41 +64,21 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 
 
-### Challenge
-* [visualdialog](https://visualdialog.org/), 2020
-
-* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
-
-* [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
-
-* [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) Tsung-Hsien Wen et al, 2016
-
-* [Conditional Generation and Snapshot Learning in Neural Dialogue Systems](https://arxiv.org/abs/1606.03352) Tsung-Hsien Wen et al, 2016
-
-* [Incorporating Unstructured Textual Knowledge Sources into Neural Dialogue](http://media.wix.com/ugd/b6d786_137894b7b3a341a09ed0c0b45b46dbb6.pdf) Ryan Lowe et al., 2016
-
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-
-
 
 ## Open Domain
 ### General 
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
 * [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
 
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
