@@ -86,7 +86,21 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Zero-Shot Dialog Generation with Cross-Domain Latent Actions](https://arxiv.org/abs/1805.04803) Tiancheng Zhao et al 2018
 
 
-### Others
+### General
+
+* [Image-Question-Answer Synergistic Network for Visual Dialog](https://arxiv.org/abs/1902.09774), Dalu Guo et al., CVPR 2019
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
 
 * [](), et al., 2016
 
