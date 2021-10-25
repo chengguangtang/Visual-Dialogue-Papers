@@ -3,48 +3,45 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ## Datasets
 ### Open Domain
-* [Visual Dialogue](https://arxiv.org/abs/1611.08669), Abhishek Das et al., CVPR 2017 
+* MN, [Visual Dialogue](https://arxiv.org/abs/1611.08669), Abhishek Das et al., CVPR 2017 
 
-* [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), Harm de Vries et al., CVPR 2017
+* GuessWhat, [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), Harm de Vries et al., CVPR 2017
 
 * [Visual Reference Resolution using Attention Memory for Visual Dialog](https://arxiv.org/abs/1709.07992), Paul Hongsuck Seo et al., NIPS 2017
 
 * [Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation](https://aclanthology.org/I17-1047/), Nasrin Mostafazadeh et al., IJCNLP 2017
 
-* [MMD: Towards Building Large Scale Multimodal Domain-Aware Conversation Systems](https://arxiv.org/abs/1704.00200), Amrita Saha et al., AAAI 2018
+* MMD, [MMD: Towards Building Large Scale Multimodal Domain-Aware Conversation Systems](https://arxiv.org/abs/1704.00200), Amrita Saha et al., AAAI 2018
 
-* [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166), Satwik Kottur et al., NAACL 2019
+* CLEVR-Dialog, [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166), Satwik Kottur et al., NAACL 2019
 
-* [Audio-Visual Scene-Aware Dialog](https://arxiv.org/abs/1901.09107), Huda Alamri et al., CVPR 2019
+* AVSA, [Audio-Visual Scene-Aware Dialog](https://arxiv.org/abs/1901.09107), Huda Alamri et al., CVPR 2019
 
-* [Image-Chat: Engaging Grounded Conversations](https://arxiv.org/abs/1811.00945), Kurt Shuster et al., ACL 2020, [HomePage](https://parl.ai/projects/image_chat/)
+* Image-chat, [Image-Chat: Engaging Grounded Conversations](https://arxiv.org/abs/1811.00945), Kurt Shuster et al., ACL 2020, [HomePage](https://parl.ai/projects/image_chat/)
 
 * [Multi-Modal Open-Domain Dialogue](https://arxiv.org/abs/2010.01082), Kurt Shuster et al., *arXiv* 2020, [HomePage](https://github.com/facebookresearch/ParlAI/tree/master/projects/multimodal_blenderbot)
 
 * [Constructing Multi-Modal Dialogue Dataset by Replacing Text with Semantically Relevant Images](https://arxiv.org/abs/2107.08685), Nyoungwoo Lee et al., ACL 2021, [HomePage](https://github.com/shh1574/multi-modal-dialogue-dataset)
 
-* [MMChat: Multi-Modal Chat Dataset on Social Media](https://arxiv.org/abs/2108.07154), Yinhe Zheng et al., CVPR 2021
+* MMChat, [MMChat: Multi-Modal Chat Dataset on Social Media](https://arxiv.org/abs/2108.07154), Yinhe Zheng et al., CVPR 2021
 
-* [OpenViDial: A Large-Scale, Open-Domain Dialogue Dataset with Visual Contexts](https://arxiv.org/abs/2012.15015), Yuxian Meng et al., *arXiv* 2021
+* OpenViDial, [OpenViDial: A Large-Scale, Open-Domain Dialogue Dataset with Visual Contexts](https://arxiv.org/abs/2012.15015), Yuxian Meng et al., *arXiv* 2021
 
-* [OpenViDial 2.0: A Larger-Scale, Open-Domain Dialogue Generation Dataset with Visual Contexts](https://arxiv.org/abs/2109.12761v2), Shuhe Wang et al., *arXiv* 2021
+* OpenViDial 2.0, [OpenViDial 2.0: A Larger-Scale, Open-Domain Dialogue Generation Dataset with Visual Contexts](https://arxiv.org/abs/2109.12761v2), Shuhe Wang et al., *arXiv* 2021
 
 ### Goal Oriented
 
-* [SIMMC: Situated Interactive Multi-Modal Conversational Data Collection And Evaluation Platform](), et al., DSTC9 2020, [HomePage](https://github.com/facebookresearch/simmc)
+* SIMMC, [SIMMC: Situated Interactive Multi-Modal Conversational Data Collection And Evaluation Platform](), et al., DSTC9 2020, [HomePage](https://github.com/facebookresearch/simmc)
 
-* [SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations](), et al., DSTC10 2021, [HomePage](https://github.com/facebookresearch/simmc2)
+* SIMMC 2.0, [SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations](), et al., DSTC10 2021, [HomePage](https://github.com/facebookresearch/simmc2)
 
-* [The JDDC 2.0 Corpus: A Large-Scale Multimodal Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service](https://arxiv.org/abs/2109.12913), et al., *arXiv* 2021, [HomePage](https://jddc.jd.com/)
+* The JDDC 2.0, [The JDDC 2.0 Corpus: A Large-Scale Multimodal Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service](https://arxiv.org/abs/2109.12913), et al., *arXiv* 2021, [HomePage](https://jddc.jd.com/)
 
 
 ## Challenge
 * [visualdialog](https://visualdialog.org/), 2020
 
 * [Audio Visual Scene-Aware Dialog (AVSD) Challenge](https://video-dialog.com/), Bing Liu, *arXiv*, 2016
-
-* [](), et al., 2016
-
 
 
 # Open Domain
@@ -55,7 +52,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * VDBERT, [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), Yue Wang et al., EMNLP 2020, [HomePage](https://github.com/salesforce/VD-BERT)
 
 
-
 ### Transformer
 
 * [Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue Generation](https://arxiv.org/abs/2109.08478), Feilong Chen et al., ACL Fingdings 2021
@@ -63,7 +59,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [](), et al., 2016
 
 
-### Attention-based
+### Attention-based models
 
 * DVAN, [Dual Visual Attention Network for Visual Dialog](https://www.ijcai.org/Proceedings/2019/0693.pdf), Dan Guo et al., IJCAI 2019, [Code](https://github.com/gicheonkang/dan-visdial)
 
@@ -87,9 +83,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * CoAtt, [Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning](https://arxiv.org/abs/1711.07613), Qi Wu et al., CVPR 2018
 
-* [](), et al., 2016
-
-* [](), et al., 2016
 
 
 ### General
@@ -118,9 +111,9 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Multi-View Attention Network for Visual Dialog](https://arxiv.org/abs/2004.14025), Sungjin Park et al., ACL 2020, [[Code]](https://github.com/taesunwhang/MVAN-VisDial)
 
-* [History for Visual Dialog: Do we really need it?](https://aclanthology.org/2020.acl-main.728/), Shubham Agarwal et al., ACL 2020
+* MCA, [History for Visual Dialog: Do we really need it?](https://aclanthology.org/2020.acl-main.728/), Shubham Agarwal et al., ACL 2020
 
-* [Iterative Context-Aware Graph Inference for Visual Dialog](https://arxiv.org/abs/2004.02194), Dan Guo et al., CVPR 2020
+* CAG, [Iterative Context-Aware Graph Inference for Visual Dialog](https://arxiv.org/abs/2004.02194), Dan Guo et al., CVPR 2020
 
 * [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), Feilong Chen et al., EMNLP 2021
 
