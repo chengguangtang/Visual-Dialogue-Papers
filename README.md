@@ -3,7 +3,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ## Datasets
 ### Open Domain
-* MN, [Visual Dialogue](https://arxiv.org/abs/1611.08669), Abhishek Das et al., CVPR 2017 
+* [Visual Dialogue](https://arxiv.org/abs/1611.08669), Abhishek Das et al., CVPR 2017 
 
 * GuessWhat, [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), Harm de Vries et al., CVPR 2017
 
@@ -54,16 +54,26 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ### Transformer
 
-* [Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue Generation](https://arxiv.org/abs/2109.08478), Feilong Chen et al., ACL Fingdings 2021
+* [Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog](https://arxiv.org/abs/2002.00163), Zekang Li et al., AAAI2020 DSTC8 workshop
+
+* MITVG, [Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue Generation](https://arxiv.org/abs/2109.08478), Feilong Chen et al., ACL Fingdings 2021
 
 * [](), et al., 2016
 
 
 ### Attention-based models
 
+* HCIAE, [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://arxiv.org/abs/1706.01554), Jiasen Lu et al., NIPS 2017
+
+* Primary, [Image-Question-Answer Synergistic Network for Visual Dialog](https://arxiv.org/abs/1902.09774), Dalu Guo et al., CVPR 2019
+
+* ReDAN, [Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog](https://arxiv.org/abs/1902.00579), Zhe Gan et al., ACL 2019
+
 * DVAN, [Dual Visual Attention Network for Visual Dialog](https://www.ijcai.org/Proceedings/2019/0693.pdf), Dan Guo et al., IJCAI 2019, [Code](https://github.com/gicheonkang/dan-visdial)
 
 * RvA, [Recursive Visual Attention in Visual Dialog](https://arxiv.org/abs/1812.02664), Yulei Niu et al., CVPR 2019
+
+* DMRM, [DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog](https://arxiv.org/abs/1912.08360), Feilong Chen et al., AAAI 2020
 
 
 ### Graph-based models
@@ -84,26 +94,15 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * CoAtt, [Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning](https://arxiv.org/abs/1711.07613), Qi Wu et al., CVPR 2018
 
 
-
 ### General
 
-* HCIAE, [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://arxiv.org/abs/1706.01554), Jiasen Lu et al., NIPS 2017
-
 * CorefNMN, [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), Satwik Kottur et al., ECCV 2018
-
-* [Image-Question-Answer Synergistic Network for Visual Dialog](https://arxiv.org/abs/1902.09774), Dalu Guo et al., CVPR 2019
 
 * [Making History Matter: History-Advantage Sequence Training for Visual Dialog](https://arxiv.org/abs/1902.09326), Tianhao Yang et al., ICCV 2019
 
 * [Generative Visual Dialogue System via Adaptive Reasoning and Weighted Likelihood Estimation](https://arxiv.org/abs/1902.09818), Heming Zhang et al., IJCAI 2019
 
-* DMRM, [DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog](https://arxiv.org/abs/1912.08360), Feilong Chen et al., AAAI 2020
-
-* DAM, [DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310), Xiaoze Jiang et al., IJCAI 2020, [Code](https://github.com/JXZe/DAM)
-
 * [Granular Multimodal Attention Networks for Visual Dialog](https://arxiv.org/abs/1910.05728), Badri N. Patro et al., ICCV Workshop 2019
-
-* ReDAN, [Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog](https://arxiv.org/abs/1902.00579), Zhe Gan et al., ACL 2019
 
 * [Modality-Balanced Models for Visual Dialogue](https://arxiv.org/abs/2001.06354), Hyounghun Kim et al., AAAI 2020
 
@@ -115,9 +114,9 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * CAG, [Iterative Context-Aware Graph Inference for Visual Dialog](https://arxiv.org/abs/2004.02194), Dan Guo et al., CVPR 2020
 
-* [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), Feilong Chen et al., EMNLP 2021
+* DAM, [DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310), Xiaoze Jiang et al., IJCAI 2020, [Code](https://github.com/JXZe/DAM)
 
-* [Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog](https://arxiv.org/abs/2002.00163), Zekang Li et al., AAAI2020 DSTC8 workshop
+* [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), Feilong Chen et al., EMNLP 2021
 
 * [](), et al., 2016
 
