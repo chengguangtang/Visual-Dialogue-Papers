@@ -50,13 +50,10 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 # Open Domain
 ### Pretraining
 
-* [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), Vishvak Murahari et al., ECCV 2020, [HomePage](https://github.com/vmurahari3/visdial-bert)
+* VisualBERT, [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), Vishvak Murahari et al., ECCV 2020, [HomePage](https://github.com/vmurahari3/visdial-bert)
 
-* [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), Yue Wang et al., EMNLP 2020, [HomePage](https://github.com/salesforce/VD-BERT)
+* VDBERT, [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), Yue Wang et al., EMNLP 2020, [HomePage](https://github.com/salesforce/VD-BERT)
 
-* [](), et al., 2016
-
-* [](), et al., 2016
 
 
 ### Transformer
@@ -65,35 +62,25 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [](), et al., 2016
 
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
 
 ### Attention-based
 
-* [Efficient Attention Mechanism for Visual Dialog that can Handle All the Interactions between Multiple Inputs](https://arxiv.org/abs/1911.11390), Van-Quang Nguyen et al., ECCV 2020
+* DVAN, [Dual Visual Attention Network for Visual Dialog](https://www.ijcai.org/Proceedings/2019/0693.pdf), Dan Guo et al., IJCAI 2019, [Code](https://github.com/gicheonkang/dan-visdial)
 
-* [](), et al., 2016
-
-* [](), et al., 2016
+* RvA, [Recursive Visual Attention in Visual Dialog](https://arxiv.org/abs/1812.02664), Yulei Niu et al., CVPR 2019
 
 
-### GNN
+### Graph-based models
 
-* [GoG: Relation-aware Graph-over-Graph Network for Visual Dialog](https://arxiv.org/abs/2109.08475), Feilong Chen et al., ACL Findings 2021
+* GNN-EM, [Reasoning Visual Dialogs with Structural and Partial Observations](https://arxiv.org/abs/1904.05548), Zilong Zheng et al., CVPR 2019
 
-* [Reasoning Visual Dialogs with Structural and Partial Observations](https://arxiv.org/abs/1904.05548), Zilong Zheng et al., CVPR 2019
+* DualVD, [DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue](https://arxiv.org/abs/1911.07251), Xiaoze Jiang et al., AAAI 2020
 
-* [KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue](https://arxiv.org/abs/2008.04858), Xiaoze Jiang et al., ACM MM 2020
+* FGA, [Factor Graph Attention](https://arxiv.org/abs/1904.05880), Idan Schwartz et al., CVPR 2019
 
-* [](), et al., 2016
+* KBGN, [KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue](https://arxiv.org/abs/2008.04858), Xiaoze Jiang et al., ACM MM 2020
 
-* [](), et al., 2016
-
-* [](), et al., 2016
+* GoG, [GoG: Relation-aware Graph-over-Graph Network for Visual Dialog](https://arxiv.org/abs/2109.08475), Feilong Chen et al., ACL Findings 2021
 
 
 ### GAN
@@ -115,27 +102,19 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Making History Matter: History-Advantage Sequence Training for Visual Dialog](https://arxiv.org/abs/1902.09326), Tianhao Yang et al., ICCV 2019
 
-* [Dual Visual Attention Network for Visual Dialog](https://www.ijcai.org/Proceedings/2019/0693.pdf), Dan Guo et al., IJCAI 2019, [Code](https://github.com/gicheonkang/dan-visdial)
-
-* [Recursive Visual Attention in Visual Dialog](https://arxiv.org/abs/1812.02664), Yulei Niu et al., CVPR 2019
-
-* [Factor Graph Attention](https://arxiv.org/abs/1904.05880), Idan Schwartz et al., CVPR 2019
-
 * [Generative Visual Dialogue System via Adaptive Reasoning and Weighted Likelihood Estimation](https://arxiv.org/abs/1902.09818), Heming Zhang et al., IJCAI 2019
 
-* [DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue](https://arxiv.org/abs/1911.07251), Xiaoze Jiang et al., AAAI 2020
+* DMRM, [DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog](https://arxiv.org/abs/1912.08360), Feilong Chen et al., AAAI 2020
 
-* [DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog](https://arxiv.org/abs/1912.08360), Feilong Chen et al., AAAI 2020
-
-* [DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310), Xiaoze Jiang et al., IJCAI 2020, [Code](https://github.com/JXZe/DAM)
+* DAM, [DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310), Xiaoze Jiang et al., IJCAI 2020, [Code](https://github.com/JXZe/DAM)
 
 * [Granular Multimodal Attention Networks for Visual Dialog](https://arxiv.org/abs/1910.05728), Badri N. Patro et al., ICCV Workshop 2019
 
-* [Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog](https://arxiv.org/abs/1902.00579), Zhe Gan et al., ACL 2019
+* ReDAN, [Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog](https://arxiv.org/abs/1902.00579), Zhe Gan et al., ACL 2019
 
 * [Modality-Balanced Models for Visual Dialogue](https://arxiv.org/abs/2001.06354), Hyounghun Kim et al., AAAI 2020
 
-* [Efficient Attention Mechanism for Visual Dialog that can Handle All the Interactions between Multiple Inputs](https://arxiv.org/abs/1911.11390), Van-Quang Nguyen et al., ECCV 2020
+* LTMI, [Efficient Attention Mechanism for Visual Dialog that can Handle All the Interactions between Multiple Inputs](https://arxiv.org/abs/1911.11390), Van-Quang Nguyen et al., ECCV 2020
 
 * [Multi-View Attention Network for Visual Dialog](https://arxiv.org/abs/2004.14025), Sungjin Park et al., ACL 2020, [[Code]](https://github.com/taesunwhang/MVAN-VisDial)
 
