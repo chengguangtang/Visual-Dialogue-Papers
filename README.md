@@ -96,12 +96,20 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [](), et al., 2016
 
 
+### GAN
+
+* CoAtt, [Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning](https://arxiv.org/abs/1711.07613), Qi Wu et al., CVPR 2018
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
 
 ### General
 
-* [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://arxiv.org/abs/1706.01554), Jiasen Lu et al., NIPS 2017
+* HCIAE, [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://arxiv.org/abs/1706.01554), Jiasen Lu et al., NIPS 2017
 
-* [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), Satwik Kottur et al., ECCV 2018
+* CorefNMN, [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/abs/1809.01816), Satwik Kottur et al., ECCV 2018
 
 * [Image-Question-Answer Synergistic Network for Visual Dialog](https://arxiv.org/abs/1902.09774), Dalu Guo et al., CVPR 2019
 
