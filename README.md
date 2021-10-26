@@ -44,10 +44,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Audio Visual Scene-Aware Dialog (AVSD) Challenge](https://video-dialog.com/), Bing Liu, *arXiv*, 2016
 
 
-![image](https://user-images.githubusercontent.com/1453642/138799384-189767bd-53c1-41bf-b075-5be7f28a8883.png)
-
-
-
 # Open Domain
 ### Pretraining
 
