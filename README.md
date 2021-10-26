@@ -118,6 +118,9 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), Feilong Chen et al., EMNLP 2021
 
+![image](https://user-images.githubusercontent.com/1453642/138843697-fc1af98b-5cc9-4c6d-be94-a7e3f638ea13.png)
+
+
 * [](), et al., 2016
 
 * [](), et al., 2016
