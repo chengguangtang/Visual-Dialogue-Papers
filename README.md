@@ -5,8 +5,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 ### Open Domain
 * [Visual Dialogue](https://arxiv.org/abs/1611.08669), Abhishek Das et al., CVPR 2017 
 
-* GuessWhat, [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), Harm de Vries et al., CVPR 2017
-
 * [Visual Reference Resolution using Attention Memory for Visual Dialog](https://arxiv.org/abs/1709.07992), Paul Hongsuck Seo et al., NIPS 2017
 
 * [Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation](https://aclanthology.org/I17-1047/), Nasrin Mostafazadeh et al., IJCNLP 2017
@@ -30,6 +28,8 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * OpenViDial 2.0, [OpenViDial 2.0: A Larger-Scale, Open-Domain Dialogue Generation Dataset with Visual Contexts](https://arxiv.org/abs/2109.12761v2), Shuhe Wang et al., *arXiv* 2021
 
 ### Goal Oriented
+
+* GuessWhat, [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), Harm de Vries et al., CVPR 2017
 
 * SIMMC, [SIMMC: Situated Interactive Multi-Modal Conversational Data Collection And Evaluation Platform](), et al., DSTC9 2020, [HomePage](https://github.com/facebookresearch/simmc)
 
@@ -129,6 +129,17 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 
 ## Goal Oriented
+
+### Reinforcement Learning
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+
+
 ### General
 
 * [DialogStitch: Synthetic Deeper and Multi-Context Task-Oriented Dialogs](https://aclanthology.org/2021.sigdial-1.3.pdf), Satwik Kottur et al., SIGDIAL 2021, [[code]](https://github.com/facebookresearch/DialogStitch)
