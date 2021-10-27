@@ -144,6 +144,14 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [What Should I Ask? Using Conversationally Informative Rewards for Goal-Oriented Visual Dialogue](https://aclanthology.org/P19-1646/), Pushkar Shukla et al., ACL 2019
 
+* [Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog](https://arxiv.org/abs/1802.03881v3), Sang-Woo Lee et al., NIPS 2018
+
+* [Visual Dialogue State Tracking for Question Generation](https://arxiv.org/abs/1911.07928v2), Wei Pang et al., AAAI 2020 Oral
+ 
+* [Guessing State Tracking for Visual Dialogue](https://arxiv.org/abs/2002.10340v5), Wei Pang et al., ECCV 2020, [[code]](https://github.com/xubuvd/guesswhat)
+
+* [A Revised Generative Evaluation of Visual Dialogue](https://arxiv.org/abs/2004.09272v2), Daniela Massiceti et al., CVPR 2020
+
 * [DialogStitch: Synthetic Deeper and Multi-Context Task-Oriented Dialogs](https://aclanthology.org/2021.sigdial-1.3.pdf), Satwik Kottur et al., SIGDIAL 2021, [[code]](https://github.com/facebookresearch/DialogStitch)
 
 * [An Analysis of State-of-the-Art Models for Situated Interactive MultiModal Conversations (SIMMC)](https://aclanthology.org/2021.sigdial-1.15/), Satwik Kottur et al., SIGDIAL 2021, [[video]](https://www.youtube.com/watch?v=VmdHZSno2MQ)
@@ -159,17 +167,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue](https://arxiv.org/abs/2010.00361), Zipeng Xu et al., ACM MM 2020
 
 * [Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue](https://arxiv.org/abs/2106.15550), Shoya Matsumori et al., CVPR 2021
-
-
-* [Visual Dialogue State Tracking for Question Generation](https://arxiv.org/abs/1911.07928v2), Wei Pang et al., AAAI 2020 Oral
- 
-* [A Revised Generative Evaluation of Visual Dialogue](https://arxiv.org/abs/2004.09272v2), Daniela Massiceti et al., CVPR 2020
-
-* [Guessing State Tracking for Visual Dialogue](https://arxiv.org/abs/2002.10340v5), Wei Pang et al., ECCV 2020, [[code]](https://github.com/xubuvd/guesswhat)
-
-* [](), et al., 2016
-
-* [](), et al., 2016
 
 * [](), et al., 2016
 
