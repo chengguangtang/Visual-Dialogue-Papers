@@ -144,6 +144,18 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [DialogStitch: Synthetic Deeper and Multi-Context Task-Oriented Dialogs](https://aclanthology.org/2021.sigdial-1.3.pdf), Satwik Kottur et al., SIGDIAL 2021, [[code]](https://github.com/facebookresearch/DialogStitch)
 
+* [An Analysis of State-of-the-Art Models for Situated Interactive MultiModal Conversations (SIMMC)](https://aclanthology.org/2021.sigdial-1.15/), Satwik Kottur et al., SIGDIAL 2021, [[video]](https://www.youtube.com/watch?v=VmdHZSno2MQ)
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
 * [](), et al., 2016
 
 * [](), et al., 2016
