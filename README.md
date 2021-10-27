@@ -146,9 +146,9 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [An Analysis of State-of-the-Art Models for Situated Interactive MultiModal Conversations (SIMMC)](https://aclanthology.org/2021.sigdial-1.15/), Satwik Kottur et al., SIGDIAL 2021, [[video]](https://www.youtube.com/watch?v=VmdHZSno2MQ)
 
-* [](), et al., 2016
+* [Joint Generation and Bi-Encoder for Situated Interactive MultiModal Conversations](https://oar.a-star.edu.sg/communities-collections/articles/17071), Xin Huang et al., AAAI-21 DSTC-9 Workshop
 
-* [](), et al., 2016
+* [A Response Retrieval Approach for Dialogue Using a Multi-Attentive Transformer](https://arxiv.org/abs/2012.08148), Matteo A. Senese et al., AAAI-21 DSTC-9 Workshop, [[code]](https://github.com/D2KLab/dstc9-SIMMC)
 
 * [](), et al., 2016
 
