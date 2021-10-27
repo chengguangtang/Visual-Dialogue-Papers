@@ -142,6 +142,8 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ### General
 
+* [What Should I Ask? Using Conversationally Informative Rewards for Goal-Oriented Visual Dialogue](https://aclanthology.org/P19-1646/), Pushkar Shukla et al., ACL 2019
+
 * [DialogStitch: Synthetic Deeper and Multi-Context Task-Oriented Dialogs](https://aclanthology.org/2021.sigdial-1.3.pdf), Satwik Kottur et al., SIGDIAL 2021, [[code]](https://github.com/facebookresearch/DialogStitch)
 
 * [An Analysis of State-of-the-Art Models for Situated Interactive MultiModal Conversations (SIMMC)](https://aclanthology.org/2021.sigdial-1.15/), Satwik Kottur et al., SIGDIAL 2021, [[video]](https://www.youtube.com/watch?v=VmdHZSno2MQ)
@@ -152,13 +154,11 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [TOM : End-to-End Task-Oriented Multimodal Dialog System with GPT-2](https://drive.google.com/file/d/1_-F_7mGcmmIm7S5IyH-puVZM5uelp7nu/view?usp=sharing), Younghoon Jeong et al., AAAI 2021 DSTC-9 Workshop
 
-* [](), et al., 2016
+* [Multi-Task Learning for Situated Multi-Domain End-to-End Dialogue Systems](https://arxiv.org/abs/2110.05221), Po-Nien Kung et al., AAAI 2021 DSTC-9 Workshop
 
-* [](), et al., 2016
+* [Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue](https://arxiv.org/abs/2010.00361), Zipeng Xu et al., ACM MM 2020
 
-* [](), et al., 2016
-
-* [](), et al., 2016
+* [Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue](https://arxiv.org/abs/2106.15550), Shoya Matsumori et al., CVPR 2021
 
 
 -------------------------------------------------------------------------
