@@ -142,6 +142,8 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ### General
 
+* [Learning Goal-Oriented Visual Dialog via Tempered Policy Gradient](https://arxiv.org/abs/1807.00737), Rui Zhao et al., IEEE SLT 2018
+
 * [What Should I Ask? Using Conversationally Informative Rewards for Goal-Oriented Visual Dialogue](https://aclanthology.org/P19-1646/), Pushkar Shukla et al., ACL 2019
 
 * [Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog](https://arxiv.org/abs/1802.03881v3), Sang-Woo Lee et al., NIPS 2018
@@ -167,8 +169,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue](https://arxiv.org/abs/2010.00361), Zipeng Xu et al., ACM MM 2020
 
 * [Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue](https://arxiv.org/abs/2106.15550), Shoya Matsumori et al., CVPR 2021
-
-* [](), et al., 2016
 
 * [](), et al., 2016
 
