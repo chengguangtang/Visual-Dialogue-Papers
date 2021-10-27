@@ -146,13 +146,11 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [An Analysis of State-of-the-Art Models for Situated Interactive MultiModal Conversations (SIMMC)](https://aclanthology.org/2021.sigdial-1.15/), Satwik Kottur et al., SIGDIAL 2021, [[video]](https://www.youtube.com/watch?v=VmdHZSno2MQ)
 
-* [Joint Generation and Bi-Encoder for Situated Interactive MultiModal Conversations](https://oar.a-star.edu.sg/communities-collections/articles/17071), Xin Huang et al., AAAI-21 DSTC-9 Workshop
+* [Joint Generation and Bi-Encoder for Situated Interactive MultiModal Conversations](https://oar.a-star.edu.sg/communities-collections/articles/17071), Xin Huang et al., AAAI 2021 DSTC-9 Workshop
 
-* [A Response Retrieval Approach for Dialogue Using a Multi-Attentive Transformer](https://arxiv.org/abs/2012.08148), Matteo A. Senese et al., AAAI-21 DSTC-9 Workshop, [[code]](https://github.com/D2KLab/dstc9-SIMMC)
+* [A Response Retrieval Approach for Dialogue Using a Multi-Attentive Transformer](https://arxiv.org/abs/2012.08148), Matteo A. Senese et al., AAAI 2021 DSTC-9 Workshop, [[code]](https://github.com/D2KLab/dstc9-SIMMC)
 
-* [](), et al., 2016
-
-* [](), et al., 2016
+* [TOM : End-to-End Task-Oriented Multimodal Dialog System with GPT-2](https://drive.google.com/file/d/1_-F_7mGcmmIm7S5IyH-puVZM5uelp7nu/view?usp=sharing), Younghoon Jeong et al., AAAI 2021 DSTC-9 Workshop
 
 * [](), et al., 2016
 
@@ -160,8 +158,10 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [](), et al., 2016
 
+* [](), et al., 2016
 
 
+-------------------------------------------------------------------------
 ## Pretraining in Vision and Language
 * [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/abs/1909.11740), Bing Liu, *arXiv*, 2016
 
