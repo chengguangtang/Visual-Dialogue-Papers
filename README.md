@@ -136,7 +136,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [](), et al., 2016
 
-* [](), et al., 2016
+* [Situated and interactive multimodal conversations](https://arxiv.org/abs/2006.01460), Seungwhan Moon et al., COLING 2020
 
 
 
@@ -160,6 +160,22 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue](https://arxiv.org/abs/2106.15550), Shoya Matsumori et al., CVPR 2021
 
+
+* [Visual Dialogue State Tracking for Question Generation](https://arxiv.org/abs/1911.07928v2), Wei Pang et al., AAAI 2020 Oral
+ 
+* [A Revised Generative Evaluation of Visual Dialogue](https://arxiv.org/abs/2004.09272v2), Daniela Massiceti et al., CVPR 2020
+
+* [Guessing State Tracking for Visual Dialogue](https://arxiv.org/abs/2002.10340v5), Wei Pang et al., ECCV 2020, [[code]](https://github.com/xubuvd/guesswhat)
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
+
+* [](), et al., 2016
 
 -------------------------------------------------------------------------
 ## Pretraining in Vision and Language
