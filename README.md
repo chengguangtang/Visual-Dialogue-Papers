@@ -182,5 +182,10 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ## Visual Dialog Challenge Starter Code
 
-[Visual Dialog Challenge 2019](https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch)
+* [Visual Dialog Challenge 2019](https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch)
 
+
+## Researchers' Homepage
+* Satwik Kottur, https://satwikkottur.github.io/
+
+* 
