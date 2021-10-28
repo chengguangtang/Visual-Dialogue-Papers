@@ -180,7 +180,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](), et al., CVPR 2021
 
-* [](), et al., 2016
+* [Integrating Multimodal Information in Large Pretrained Transformers](https://arxiv.org/abs/1908.05787), Wasifur Rahman et al., ACL 2020, [[code]](https://github.com/WasifurRahman/BERT_multimodal_transformer)
 
 ![image](https://user-images.githubusercontent.com/1453642/138585957-2762d461-b75e-4ec6-9c32-7b45152a554b.png)
 
