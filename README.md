@@ -31,9 +31,9 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * GuessWhat, [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), Harm de Vries et al., CVPR 2017
 
-* SIMMC, [SIMMC: Situated Interactive Multi-Modal Conversational Data Collection And Evaluation Platform](), et al., DSTC9 2020, [HomePage](https://github.com/facebookresearch/simmc)
+* SIMMC, [SIMMC: Situated Interactive Multi-Modal Conversational Data Collection And Evaluation Platform](https://arxiv.org/abs/1911.02690), et al., DSTC9 2020, [HomePage](https://github.com/facebookresearch/simmc)
 
-* SIMMC 2.0, [SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations](), et al., DSTC10 2021, [HomePage](https://github.com/facebookresearch/simmc2)
+* SIMMC 2.0, [SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations](https://aclanthology.org/2021.emnlp-main.401/), et al., DSTC10 2021, [HomePage](https://github.com/facebookresearch/simmc2)
 
 * The JDDC 2.0, [The JDDC 2.0 Corpus: A Large-Scale Multimodal Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service](https://arxiv.org/abs/2109.12913), et al., *arXiv* 2021, [HomePage](https://jddc.jd.com/)
 
@@ -108,7 +108,11 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * LTMI, [Efficient Attention Mechanism for Visual Dialog that can Handle All the Interactions between Multiple Inputs](https://arxiv.org/abs/1911.11390), Van-Quang Nguyen et al., ECCV 2020
 
+* [All-in-One Image-Grounded Conversational Agents](https://arxiv.org/abs/1912.12394), Da Ju et al., CVPR 2020
+
 * [Multi-View Attention Network for Visual Dialog](https://arxiv.org/abs/2004.14025), Sungjin Park et al., ACL 2020, [[Code]](https://github.com/taesunwhang/MVAN-VisDial)
+
+* [The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents](https://aclanthology.org/2020.acl-main.222/), Kurt Shuster et al., ACL 2020
 
 * MCA, [History for Visual Dialog: Do we really need it?](https://aclanthology.org/2020.acl-main.728/), Shubham Agarwal et al., ACL 2020
 
@@ -119,14 +123,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 * [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), Feilong Chen et al., EMNLP 2021
 
 ![image](https://user-images.githubusercontent.com/1453642/138843697-fc1af98b-5cc9-4c6d-be94-a7e3f638ea13.png)
-
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
-* [](), et al., 2016
-
 
 ## Goal Oriented
 
