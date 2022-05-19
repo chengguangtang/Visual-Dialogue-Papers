@@ -128,10 +128,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ### Reinforcement Learning
 
-* [](), et al., 2016
-
-* [](), et al., 2016
-
 * [Situated and interactive multimodal conversations](https://arxiv.org/abs/2006.01460), Seungwhan Moon et al., COLING 2020
 
 
@@ -185,8 +181,7 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 ## Related Survey
 
 * [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358), Aditya Mogadala et al., JAIR 2021
-
-* [](), et al., 2016
+* [Multimodal Conversational AI: A Survey of Datasets and Approaches](https://arxiv.org/abs/2205.06907?context=cs), Anirudh Sundar et al., *arXiv*, 2022
 
 
 ## Visual Dialog Challenge Starter Code
@@ -196,5 +191,3 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 ## Researchers' Homepage
 * Satwik Kottur, https://satwikkottur.github.io/
-
-* 
