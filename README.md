@@ -58,8 +58,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * MITVG, [Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue Generation](https://arxiv.org/abs/2109.08478), Feilong Chen et al., ACL Fingdings 2021
 
-* [](), et al., 2016
-
 
 ### Attention-based models
 
@@ -162,9 +160,6 @@ A list of papers about creating visual dialogue papers **Please feel free to add
 
 * [Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue](https://arxiv.org/abs/2106.15550), Shoya Matsumori et al., CVPR 2021
 
-* [](), et al., 2016
-
-* [](), et al., 2016
 
 -------------------------------------------------------------------------
 ## Pretraining in Vision and Language
